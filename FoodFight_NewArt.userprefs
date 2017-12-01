@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealthHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Spawner.cs" Line="45" Column="4" />
+      <File FileName="Assets/Scripts/P1_MovementController.cs" Line="49" Column="1" />
+      <File FileName="Assets/Scripts/P2_MovementController.cs" Line="196" Column="7" />
+      <File FileName="Assets/Scripts/ProjectileReceiver.cs" Line="69" Column="24" />
+      <File FileName="Assets/Scripts/SFX.cs" Line="21" Column="8" />
+      <File FileName="Assets/Scripts/HealthHandler.cs" Line="52" Column="44" />
+      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="48" Column="20" />
+      <File FileName="Assets/Scripts/Restart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

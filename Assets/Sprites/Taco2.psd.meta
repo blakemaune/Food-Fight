@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 195126ad2bebb45b582e222df0de5653
+timeCreated: 1492904052
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Taco_body
+    21300002: Taco_upperarm_left
+    21300004: Taco_forearm_left
+    21300006: Taco_upperarm_right
+    21300008: Taco_forearm_right
+    21300010: Taco_upperleg_right
+    21300012: Taco_lowerleg_right
+    21300014: Taco_upperleg_left
+    21300016: Taco_lowerleg_left
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Taco_body
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 461
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_upperarm_left
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 578
+        width: 78
+        height: 16
+      alignment: 9
+      pivot: {x: 0.041122828, y: 0.16640854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_forearm_left
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 594
+        width: 60
+        height: 87
+      alignment: 9
+      pivot: {x: 0.68838096, y: 0.016416352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_upperarm_right
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 585
+        width: 40
+        height: 19
+      alignment: 9
+      pivot: {x: 0.9960333, y: 0.11142771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_forearm_right
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 604
+        width: 62
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52232707, y: 0.01257754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_upperleg_right
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 199
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.9520533, y: 0.926177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_lowerleg_right
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 136
+        width: 90
+        height: 63
+      alignment: 9
+      pivot: {x: 0.7567217, y: 0.9703902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_upperleg_left
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 205
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.07213112, y: 0.8587723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Taco_lowerleg_left
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 136
+        width: 102
+        height: 69
+      alignment: 9
+      pivot: {x: 0.18484287, y: 0.9658842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

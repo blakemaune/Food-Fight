@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 10f1542455f404f9d90cea222f232da2
+timeCreated: 1492925563
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orange_Chicken_RightWing
+    21300002: Orange_Chicken_LeftWing
+    21300004: Orange_Chicken2_2
+    21300006: Orange_Chicken2_3
+    21300008: Orange_Chicken_Body
+    21300010: Orange_Chicken2_5
+    21300012: Orange_Chicken2_6
+    21300014: Orange_Chicken2_7
+    21300016: Orange_Chicken2_8
+    21300018: Orange_Chicken2_9
+    21300020: Orange_Chicken2_10
+    21300022: Orange_Chicken_RightLeg
+    21300024: Orange_Chicken_LeftLeg
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orange_Chicken_RightWing
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 568
+        width: 149
+        height: 164
+      alignment: 9
+      pivot: {x: 0.8489933, y: 0.7113822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken_LeftWing
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 568
+        width: 147
+        height: 164
+      alignment: 9
+      pivot: {x: 0.13718835, y: 0.71951294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 224
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 180
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken_Body
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 112
+        width: 216
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 218
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 222
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 149
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken2_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken_RightLeg
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 93
+        height: 75
+      alignment: 9
+      pivot: {x: 0.8010753, y: 0.9800003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Orange_Chicken_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 33
+        width: 106
+        height: 79
+      alignment: 9
+      pivot: {x: 0.17295606, y: 0.9388188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

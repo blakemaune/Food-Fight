@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: c568ff4b78fdb48de8db06595a073f77
+timeCreated: 1492909024
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coffee_upperarm_right
+    21300002: Coffee_forearm_right
+    21300004: Coffee_arm_right
+    21300006: Coffee_body
+    21300008: Coffee_upperleg_right
+    21300010: Coffee_lowerleg_right
+    21300012: Coffee_upperleg_left
+    21300014: Coffee_lowerleg_left
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coffee_upperarm_right
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 637
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.93958414, y: 0.9328672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coffee_forearm_right
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 638
+        width: 75
+        height: 59
+      alignment: 9
+      pivot: {x: 0.9830796, y: 0.09629692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coffee_arm_right
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 644
+        width: 112
+        height: 98
+      alignment: 9
+      pivot: {x: 0.0262146, y: 0.2752393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coffee_body
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 225
+        width: 214
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coffee_upperleg_right
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 157
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.9250107, y: 0.91213155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coffee_lowerleg_right
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 96
+        width: 91
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7241815, y: 0.9661813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coffee_upperleg_left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.10258811, y: 0.90845215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coffee_lowerleg_left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 100
+        width: 100
+        height: 68
+      alignment: 9
+      pivot: {x: 0.21253845, y: 0.9772844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

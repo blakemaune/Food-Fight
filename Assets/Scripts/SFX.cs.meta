@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31242bd5145cd4bb3a6847b2e4ff6325
+timeCreated: 1493847319
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - whoosh: {fileID: 8300000, guid: 06683a16c6e0f41dfa2a95d5ae59f84e, type: 3}
+  - punch: {fileID: 8300000, guid: 4dbfb0c9f008743fd8c62c0c628c15af, type: 3}
+  - grunt: {fileID: 8300000, guid: 09af04255f791401cbf878f1236a98f7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
